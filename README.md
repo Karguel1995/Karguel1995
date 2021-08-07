@@ -1,7 +1,5 @@
 ### Hi there, I'm Filip Pawelec - aka [Karguel1995][portfolio] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🌱 I’m currently learning Gatsby and Bootstrap 🧠
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
