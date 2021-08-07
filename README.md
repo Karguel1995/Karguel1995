@@ -28,6 +28,11 @@
 
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karguel1995&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karguel1995&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Karguel1995's GitHub Stats">
+
 [instagram]: https://www.instagram.com/fylyp_pawelec/
 [linkedin]: https://www.linkedin.com/in/filip-pawelec/
 [portfolio]: https://karguel1995.github.io/Portfolio.io/
+
+
