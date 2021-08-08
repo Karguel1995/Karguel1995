@@ -1,8 +1,11 @@
 ### Hi there, I'm Filip Pawelec - aka [Karguel1995][portfolio] 👋
 
-- 🌱 I’m currently learning Gatsby and Bootstrap 🧠
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn node.js, become more friendly with TypeScript
+* 🌱 I’m currently learning Gatsby and Bootstrap 🧠
+* 👯 I’m looking to collaborate with other content creators
+* 🥅 2021 Goals: 
+  * Contribute more to Open Source projects
+  * learn node.js
+  * become friendlier with TypeScript
 
 ### Connect with me:
 
