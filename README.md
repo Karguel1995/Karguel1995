@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Gatsby and Bootstrap 🧠
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects, learn node.js, become more friendly with TypeScript
 
 ### Connect with me:
 
@@ -30,9 +30,12 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karguel1995&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
-<br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Karguel1995&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Karguel1995's GitHub Stats">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karguel1995&theme=default)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karguel1995&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karguel1995)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [instagram]: https://www.instagram.com/fylyp_pawelec/
 [linkedin]: https://www.linkedin.com/in/filip-pawelec/
